@@ -11,7 +11,7 @@ First author: Diju Liu; Corresponding author: Chenliang Liu.
 Coming soon...
 
 ## Performance comparison
-
+![Taylor diagrams of debutanizer column](./Taylor diagrams of debutanizer column.png)
 
 ## Contacts:
 
